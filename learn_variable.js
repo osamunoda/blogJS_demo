@@ -1,3 +1,6 @@
+/**
+ * JS-1: Variable
+ */
 /*----------------------------------- varによる変数作成 */
 // e.g.1
 function multiply(num){
